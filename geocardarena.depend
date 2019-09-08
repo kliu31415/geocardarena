@@ -1,0 +1,666 @@
+# depslib dependency file v1.0
+1546830721 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\sdl_base.cpp
+	"sdl_base.h"
+	"fundamentals.h"
+	<sstream>
+	<cstdint>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<vector>
+	<fstream>
+	<map>
+	<queue>
+	<utility>
+	<chrono>
+	<cstdio>
+	<cmath>
+	<thread>
+	<algorithm>
+	<random>
+	<mutex>
+	<iostream>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_net.h>
+
+1546127209 net.h>
+
+1546630327 c:\program files (x86)\codeblocks\cbprojects\geocardarena\sdl_base.h
+	<string>
+	<vector>
+	<sstream>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1546228799 mixer.h>
+
+1546892165 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\main.cpp
+	<cstdlib>
+	<string>
+	<chrono>
+	<SDL2/SDL_image.h>
+	<iostream>
+	"sdl_base.h"
+	"menu.h"
+	"game_state.h"
+	"unit.h"
+	"spell.h"
+	"server.h"
+	"lobby_client.h"
+	"cpu_load_calculator.h"
+
+1546286567 calculator.h"
+
+1546575768 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\stdafx.h
+	<iostream>
+	<utility>
+	<cstdint>
+	<memory>
+	"sdl_base.h"
+	"fundamentals.h"
+	"sdl_graphics.h"
+	"connection.h"
+	"client.h"
+	"server.h"
+	"basic_game_funcs.h"
+	"menu.h"
+	"card.h"
+	"unit.h"
+	"player.h"
+	"game_state.h"
+
+1546101539 e.h"
+
+1546901588 c:\program files (x86)\codeblocks\cbprojects\geocardarena\unit.h
+	<memory>
+	<vector>
+	<string>
+	<functional>
+	"sdl_base.h"
+	"sdl_graphics.h"
+	"card.h"
+	"temporary_mod.h"
+
+1546288817 
+
+1546899511 c:\program files (x86)\codeblocks\cbprojects\geocardarena\game_state.h
+	<vector>
+	<memory>
+	<utility>
+	"unit.h"
+	"player.h"
+	"fundamentals.h"
+	"static_array.h"
+	"temporary_mod.h"
+
+1546286695 als.h"
+
+1546901696 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\unit.cpp
+	"unit.h"
+	"player.h"
+	"game_state.h"
+	<string>
+	<vector>
+	<algorithm>
+
+1546290433 >
+
+1546897260 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\game_state.cpp
+	"game_state.h"
+	"sdl_base.h"
+	"basic_game_funcs.h"
+	"spell.h"
+	"menu.h"
+	<cstdlib>
+	<cmath>
+	<algorithm>
+
+1546837162 c:\program files (x86)\codeblocks\cbprojects\geocardarena\player.h
+	"basic_game_funcs.h"
+	"fundamentals.h"
+	"sdl_graphics.h"
+	"card.h"
+	"static_array.h"
+	<memory>
+	<vector>
+	<deque>
+	<cstdint>
+
+1546837162 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\player.cpp
+	<algorithm>
+	<queue>
+	<utility>
+	<memory>
+	"player.h"
+	"fundamentals.h"
+	"unit.h"
+	"spell.h"
+	"game_state.h"
+	"menu.h"
+
+1546892144 c:\program files (x86)\codeblocks\cbprojects\geocardarena\card.h
+	"basic_game_funcs.h"
+	"fundamentals.h"
+	<string>
+	<memory>
+
+1546901574 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\card.cpp
+	"card.h"
+	"unit.h"
+	"game_state.h"
+	<string>
+
+1546536703 c:\program files (x86)\codeblocks\cbprojects\geocardarena\fundamentals.h
+	<iostream>
+	<cassert>
+	<utility>
+	<string>
+	"sdl_base.h"
+
+1546286617 /assoc_container.hpp>
+
+1546830716 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\fundamentals.cpp
+	"fundamentals.h"
+	"sdl_base.h"
+	<string>
+	<cstdio>
+	<chrono>
+	<random>
+	<cmath>
+	<mutex>
+
+1546826843 c:\program files (x86)\codeblocks\cbprojects\geocardarena\basic_game_funcs.h
+	"sdl_base.h"
+	<functional>
+	<memory>
+	<stack>
+
+1546826777 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\basic_game_funcs.cpp
+	"sdl_base.h"
+	"basic_game_funcs.h"
+
+1546286751 e_funcs.h"
+
+1546888608 c:\program files (x86)\codeblocks\cbprojects\geocardarena\menu.h
+	"basic_game_funcs.h"
+	<string>
+	<vector>
+	<stack>
+	<memory>
+
+1546890251 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\menu.cpp
+	"menu.h"
+	"fundamentals.h"
+	"basic_game_funcs.h"
+	"sdl_graphics.h"
+	"game_state.h"
+	"lobby_client.h"
+
+1546286800 ent.h"
+
+1546127209 c:\program files (x86)\codeblocks\cbprojects\geocardarena\online_lobby_client.h
+	<SDL2/SDL_net.h>
+
+1546127207 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\online_lobby_client.cpp
+	"online_lobby_client.h"
+	"sdl_base.h"
+	<cstdlib>
+
+1546890938 c:\program files (x86)\codeblocks\cbprojects\geocardarena\server.h
+	<SDL2/SDL_net.h>
+	<vector>
+	<fstream>
+	<string>
+	<functional>
+	<set>
+	"connection.h"
+
+1546288832 n.h"
+
+1546890923 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\server.cpp
+	"server.h"
+	"fundamentals.h"
+	"sdl_base.h"
+	<SDL2/SDL_net.h>
+	<string>
+	<thread>
+	<iostream>
+	<cstdlib>
+	<set>
+
+1546203195 c:\program files (x86)\codeblocks\cbprojects\geocardarena\network_base.h
+	<string>
+	<SDL2/SDL_net.h>
+	<cstdint>
+	<functional>
+	<queue>
+	<utility>
+
+1546203835 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\network_base.cpp
+	"network_base.h"
+	"sdl_base.h"
+	<SDL2/SDL_net.h>
+	<string>
+	<cstring>
+
+1546891320 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\lobby_server.cpp
+	"lobby_server.h"
+	"sdl_base.h"
+	<thread>
+	<algorithm>
+	<cstdlib>
+	"init_connect_server.h"
+
+1546889955 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\lobby_client.cpp
+	"lobby_client.h"
+	"sdl_base.h"
+	"fundamentals.h"
+	<cstdlib>
+	<functional>
+
+1546288240 l>
+
+1546889992 c:\program files (x86)\codeblocks\cbprojects\geocardarena\lobby_client.h
+	<SDL2/SDL_net.h>
+	<string>
+	<vector>
+	"client_chat_box.h"
+	"client.h"
+	"lobby_gamelist.h"
+
+1546575522 c:\program files (x86)\codeblocks\cbprojects\geocardarena\client.h
+	<string>
+	<functional>
+	<cstdint>
+	<future>
+	<utility>
+	<SDL2/SDL_net.h>
+	"connection.h"
+
+1546830617 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\client.cpp
+	"client.h"
+	"fundamentals.h"
+	<future>
+	<chrono>
+
+1546132177 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\packet_manager.cpp
+
+1546891312 c:\program files (x86)\codeblocks\cbprojects\geocardarena\connection.h
+	<string>
+	<SDL2/SDL_net.h>
+	<cstdint>
+	<functional>
+	<queue>
+	<utility>
+	<exception>
+
+1546890614 c:\program files (x86)\codeblocks\cbprojects\geocardarena\lobby_server.h
+	<string>
+	<SDL2/SDL_net.h>
+	"server.h"
+	"server_chat_box.h"
+
+1546288486 at_box.h"
+
+1546458435 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\connection.cpp
+	"connection.h"
+	"sdl_base.h"
+	"fundamentals.h"
+	<SDL2/SDL_net.h>
+	<string>
+	<cstring>
+
+1546287136 c:\program files (x86)\codeblocks\cbprojects\geocardarena\chat_box_client.h
+	"fundamentals.h"
+	<functional>
+	<deque>
+
+1546286774 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\chat_box_client.cpp
+	"chat_box_client.h"
+
+1546286774 client.h"
+
+1546286567 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\cpu_load_calculator.cpp
+	"cpu_load_calculator.h"
+
+1546458406 c:\program files (x86)\codeblocks\cbprojects\geocardarena\cpu_load_calculator.h
+	<queue>
+	<utility>
+	"fundamentals.h"
+
+1546758797 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\client_chat_box.cpp
+	"client_chat_box.h"
+
+1546757365 c:\program files (x86)\codeblocks\cbprojects\geocardarena\client_chat_box.h
+	"fundamentals.h"
+	"sdl_graphics.h"
+	<functional>
+	<deque>
+
+1546288486 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\server_chat_box.cpp
+	"server_chat_box.h"
+
+1546288240 c:\program files (x86)\codeblocks\cbprojects\geocardarena\server_chat_box.h
+	"fundamentals.h"
+	<functional>
+	<deque>
+
+1546101539 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/stdafx.h
+	<iostream>
+	<utility>
+	<cstdint>
+	<memory>
+	"sdl_base.h"
+	"fundamentals.h"
+	"basic_game_funcs.h"
+	"menu.h"
+	"card.h"
+	"unit.h"
+	"player.h"
+	"game_state.h"
+
+1546228799 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/sdl_base.h
+	<string>
+	<vector>
+	<sstream>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1546286617 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/fundamentals.h
+	<iostream>
+	<cassert>
+	<utility>
+	<vector>
+	<string>
+	<functional>
+	"sdl_base.h"
+	<ext/pb_ds/assoc_container.hpp>
+	<map>
+	<set>
+
+1546286641 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/basic_game_funcs.h
+	"sdl_base.h"
+	<functional>
+	<memory>
+
+1546127011 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/menu.h
+	"basic_game_funcs.h"
+	<string>
+	<vector>
+	<stack>
+	<memory>
+
+1546286646 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/card.h
+	"basic_game_funcs.h"
+	"fundamentals.h"
+	<string>
+	<memory>
+
+1546286743 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/unit.h
+	<memory>
+	<vector>
+	<string>
+	<functional>
+	"sdl_base.h"
+	"card.h"
+
+1546286716 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/player.h
+	"basic_game_funcs.h"
+	"fundamentals.h"
+	"card.h"
+	<memory>
+	<vector>
+	<deque>
+
+1546286695 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/game_state.h
+	<vector>
+	<memory>
+	"unit.h"
+	"player.h"
+	"fundamentals.h"
+
+1546286751 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/basic_game_funcs.cpp
+	"sdl_base.h"
+	"basic_game_funcs.h"
+
+1546286761 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/card.cpp
+	"card.h"
+	"unit.h"
+	"game_state.h"
+	<string>
+
+1546288817 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/client.cpp
+	"client.h"
+
+1546288832 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/client.h
+	<string>
+	<functional>
+	<cstdint>
+	"connection.h"
+
+1546292351 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/connection.h
+	<string>
+	<SDL2/SDL_net.h>
+	<cstdint>
+	<functional>
+	<queue>
+	<utility>
+
+1546287821 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/client_chat_box.cpp
+	"client_chat_box.h"
+
+1546287199 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/client_chat_box.h
+	"fundamentals.h"
+	<functional>
+	<deque>
+
+1546290247 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/connection.cpp
+	"connection.h"
+	"sdl_base.h"
+	<SDL2/SDL_net.h>
+	<string>
+	<cstring>
+
+1546286567 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/cpu_load_calculator.cpp
+	"cpu_load_calculator.h"
+
+1546286574 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/cpu_load_calculator.h
+	<queue>
+	<utility>
+
+1546286561 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/fundamentals.cpp
+	"fundamentals.h"
+	"sdl_base.h"
+	<numeric>
+	<algorithm>
+	<string>
+
+1546231304 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/game_state.cpp
+	"game_state.h"
+	"sdl_base.h"
+	"basic_game_funcs.h"
+	<cstdlib>
+	<cmath>
+
+1546290476 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/lobby_client.cpp
+	"lobby_client.h"
+	"sdl_base.h"
+	"fundamentals.h"
+	<cstdlib>
+	<functional>
+
+1546288952 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/lobby_client.h
+	<SDL2/SDL_net.h>
+	<string>
+	<vector>
+	"client_chat_box.h"
+	"client.h"
+
+1546290739 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/lobby_server.cpp
+	"lobby_server.h"
+	"sdl_base.h"
+	<thread>
+	<algorithm>
+	<cstdlib>
+
+1546288758 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/lobby_server.h
+	<string>
+	<SDL2/SDL_net.h>
+	"server.h"
+	"server_chat_box.h"
+
+1546290380 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/server.h
+	<SDL2/SDL_net.h>
+	<vector>
+	<fstream>
+	<string>
+	<functional>
+	"connection.h"
+
+1546288240 /media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/server_chat_box.h
+	"fundamentals.h"
+	<functional>
+	<deque>
+
+1546286594 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/main.cpp
+	<iostream>
+	<cstdlib>
+	<memory>
+	<string>
+	<SDL2/SDL_image.h>
+	"sdl_base.h"
+	"menu.h"
+	"game_state.h"
+	"unit.h"
+	"server.h"
+	"lobby_client.h"
+	"cpu_load_calculator.h"
+
+1546286800 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/menu.cpp
+	"menu.h"
+	"fundamentals.h"
+	"basic_game_funcs.h"
+	"game_state.h"
+	"lobby_client.h"
+
+1546286806 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/player.cpp
+	<algorithm>
+	"player.h"
+	"fundamentals.h"
+	"unit.h"
+
+1546234734 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/sdl_base.cpp
+	"sdl_base.h"
+	<sstream>
+	<cstdint>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<vector>
+	<fstream>
+	<map>
+	<queue>
+	<utility>
+	<chrono>
+	<cstdio>
+	<cmath>
+	<thread>
+	<algorithm>
+	<random>
+	<mutex>
+	<iostream>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_net.h>
+
+1546292229 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/server.cpp
+	"server.h"
+	"fundamentals.h"
+	"sdl_base.h"
+	<SDL2/SDL_net.h>
+	<string>
+	<thread>
+	<iostream>
+	<cstdlib>
+
+1546288486 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/server_chat_box.cpp
+	"server_chat_box.h"
+
+1546291606 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/geocardarena/unit.cpp
+	"unit.h"
+	"player.h"
+	"game_state.h"
+	<string>
+	<vector>
+	<algorithm>
+
+1546370842 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\thread_manager.cpp
+	"thread_manager.h"
+	<memory>
+	<thread>
+
+1546368146 c:\program files (x86)\codeblocks\cbprojects\geocardarena\thread_manager.h
+	<thread>
+	<memory>
+	<vector>
+	<future>
+	<mutex>
+	<atomic>
+
+1546837102 c:\program files (x86)\codeblocks\cbprojects\geocardarena\static_array.h
+	<memory>
+
+1546906994 c:\program files (x86)\codeblocks\cbprojects\geocardarena\sdl_graphics.h
+	<string>
+	<functional>
+	<vector>
+	<cstddef>
+	<SDL2/SDL.h>
+
+1546900739 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\sdl_graphics.cpp
+	"sdl_graphics.h"
+	"sdl_base.h"
+	"fundamentals.h"
+	<cmath>
+
+1546892892 c:\program files (x86)\codeblocks\cbprojects\geocardarena\spell.h
+	"card.h"
+	<memory>
+	<cstdint>
+
+1546893490 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\spell.cpp
+	"spell.h"
+	"unit.h"
+	"game_state.h"
+	"temporary_mod.h"
+	<memory>
+
+1546837444 c:\program files (x86)\codeblocks\cbprojects\geocardarena\temporary_mod.h
+	<vector>
+
+1546834177 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\temporary_mod.cpp
+	"temporary_mod.h"
+
+1546793915 c:\program files (x86)\codeblocks\cbprojects\geocardarena\lobby_gamelist.h
+	"sdl_graphics.h"
+
+1546793774 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\lobby_gamelist.cpp
+	"lobby_gamelist.h"
+
+1546890959 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\init_connect_server.cpp
+	"init_connect_server.h"
+	"sdl_base.h"
+	<thread>
+	<algorithm>
+	<cstdlib>
+
+1546891118 c:\program files (x86)\codeblocks\cbprojects\geocardarena\init_connect_server.h
+	<string>
+	<SDL2/SDL_net.h>
+	"server.h"
+
+1546891400 source:c:\program files (x86)\codeblocks\cbprojects\geocardarena\init_connect_client.cpp
+

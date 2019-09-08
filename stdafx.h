@@ -1,0 +1,17 @@
+#pragma once
+#include <iostream>
+#include <utility>
+#include <cstdint>
+#include <memory>
+#include "sdl_base.h"
+#include "fundamentals.h"
+#include "sdl_graphics.h"
+#include "connection.h"
+#include "client.h"
+#include "server.h"
+#include "basic_game_funcs.h"
+#include "menu.h"
+#include "card.h"
+#include "unit.h"
+#include "player.h"
+#include "game_state.h"

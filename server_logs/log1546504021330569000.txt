@@ -1,0 +1,11 @@
+[0:00:09]New connection accepted from 127.0.0.1:58165
+[0:00:09]1 connection active
+[0:00:22]connection (127.0.0.1:58165) closed due to an error
+[0:03:59]New connection accepted from 127.0.0.1:58483
+[0:03:59]1 connection active
+[0:04:12]connection (127.0.0.1:58483) closed due to an error
+[0:04:34]New connection accepted from 127.0.0.1:58530
+[0:04:34]1 connection active
+[0:04:48]connection (127.0.0.1:58530) closed due to an error
+[0:04:50]New connection accepted from 127.0.0.1:58554
+[0:04:50]1 connection active
